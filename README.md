@@ -9,4 +9,3 @@ cvv:- Any
 
 Validity:- Any
 
-Website link:- http://donationpayment.infinityfreeapp.com/
